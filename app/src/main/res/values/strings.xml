@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">prueba animation drawable</string>
+    <string name="contador_acertados_formato">Contador acertados: %d</string>
+    <string name="contador_acertados_inicial">Contador acertados: 0</string>
+</resources>
